@@ -20,11 +20,11 @@ The project uses **5 main CSV files** located in the `data/` directory. These ar
 
 The following files were from earlier iterations and are **NOT used** in the current analysis:
 
-- ~~`simulated_transactions.csv`~~ - Old version (replaced by `transactions.csv`)
-- ~~`simulated_products.csv`~~ - Old version (replaced by `products.csv`)
-- ~~`simulated_stores.csv`~~ - Old version (replaced by `stores.csv`)
+- ~~`simulated_transactions.csv`~~ - Old version (replaced by `transactions.csv`) ✅ **DELETED**
+- ~~`simulated_products.csv`~~ - Old version (replaced by `products.csv`) ✅ **DELETED**
+- ~~`simulated_stores.csv`~~ - Old version (replaced by `stores.csv`) ✅ **DELETED**
 
-**These files are excluded via `.gitignore` and should be deleted if found.**
+**These files have been removed from the project directory.**
 
 ---
 
