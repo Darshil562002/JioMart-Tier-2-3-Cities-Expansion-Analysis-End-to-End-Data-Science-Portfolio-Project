@@ -1,0 +1,121 @@
+store_id,store_name,region_tier,city,state,city_population,infrastructure_score,warehouse_distance_km,opening_date
+STR0001,JioMart Mumbai Store 1,Metro,Mumbai,Maharashtra,20400000,9.5,4.2472407130841745,2023-12-15
+STR0002,JioMart Delhi Store 2,Metro,Delhi,Delhi,16750000,9.2,3.100608739196983,2023-03-13
+STR0003,JioMart Bangalore Store 3,Metro,Bangalore,Karnataka,12330000,9.0,5.59195090518222,2023-04-13
+STR0004,JioMart Hyderabad Store 4,Metro,Hyderabad,Telangana,10000000,8.8,4.674996517121547,2023-08-03
+STR0005,JioMart Pune Store 5,Metro,Pune,Maharashtra,6430000,8.5,2.3485016730091965,2023-03-29
+STR0006,JioMart Chennai Store 6,Metro,Chennai,Tamil Nadu,10970000,8.7,4.002251666834131,2023-12-26
+STR0007,JioMart Mumbai Store 1,Metro,Mumbai,Maharashtra,20400000,9.5,6.248435466776273,2023-05-30
+STR0008,JioMart Delhi Store 2,Metro,Delhi,Delhi,16750000,9.2,2.3384694741626015,2023-12-10
+STR0009,JioMart Bangalore Store 3,Metro,Bangalore,Karnataka,12330000,9.0,6.99465584480253,2023-10-21
+STR0010,JioMart Hyderabad Store 4,Metro,Hyderabad,Telangana,10000000,8.8,2.004672595046086,2023-10-04
+STR0011,JioMart Pune Store 5,Metro,Pune,Maharashtra,6430000,8.5,5.704889057766299,2023-11-10
+STR0012,JioMart Chennai Store 6,Metro,Chennai,Tamil Nadu,10970000,8.7,5.148538589793427,2023-08-24
+STR0013,JioMart Mumbai Store 1,Metro,Mumbai,Maharashtra,20400000,9.5,2.1383745502484945,2023-02-28
+STR0014,JioMart Delhi Store 2,Metro,Delhi,Delhi,16750000,9.2,4.399165830291533,2023-07-07
+STR0015,JioMart Bangalore Store 3,Metro,Bangalore,Karnataka,12330000,9.0,4.19817105976215,2023-07-09
+STR0016,JioMart Hyderabad Store 4,Metro,Hyderabad,Telangana,10000000,8.8,2.543638607196925,2023-02-20
+STR0017,JioMart Pune Store 5,Metro,Pune,Maharashtra,6430000,8.5,4.294771947602976,2023-09-01
+STR0018,JioMart Chennai Store 6,Metro,Chennai,Tamil Nadu,10970000,8.7,5.554487413172255,2023-05-11
+STR0019,JioMart Mumbai Store 1,Metro,Mumbai,Maharashtra,20400000,9.5,7.159642440417923,2023-05-15
+STR0020,JioMart Delhi Store 2,Metro,Delhi,Delhi,16750000,9.2,3.0231447421237494,2023-06-16
+STR0021,JioMart Bangalore Store 3,Metro,Bangalore,Karnataka,12330000,9.0,2.079589766959199,2023-03-30
+STR0022,JioMart Hyderabad Store 4,Metro,Hyderabad,Telangana,10000000,8.8,7.793792198447356,2023-08-30
+STR0023,JioMart Pune Store 5,Metro,Pune,Maharashtra,6430000,8.5,4.312499015239497,2023-12-12
+STR0024,JioMart Chennai Store 6,Metro,Chennai,Tamil Nadu,10970000,8.7,2.586032684038303,2023-12-06
+STR0025,JioMart Mumbai Store 1,Metro,Mumbai,Maharashtra,20400000,9.5,3.4461527961560705,2023-09-21
+STR0026,JioMart Delhi Store 2,Metro,Delhi,Delhi,16750000,9.2,2.2063311266913104,2023-07-25
+STR0027,JioMart Bangalore Store 3,Metro,Bangalore,Karnataka,12330000,9.0,4.346363645439444,2023-02-19
+STR0028,JioMart Hyderabad Store 4,Metro,Hyderabad,Telangana,10000000,8.8,5.975133706123891,2023-01-02
+STR0029,JioMart Pune Store 5,Metro,Pune,Maharashtra,6430000,8.5,4.550935246947468,2023-02-23
+STR0030,JioMart Chennai Store 6,Metro,Chennai,Tamil Nadu,10970000,8.7,5.280261676059678,2023-11-06
+STR0031,JioMart Mumbai Store 1,Metro,Mumbai,Maharashtra,20400000,9.5,2.1878797547333515,2023-08-06
+STR0032,JioMart Delhi Store 2,Metro,Delhi,Delhi,16750000,9.2,4.698524800218594,2023-07-21
+STR0033,JioMart Bangalore Store 3,Metro,Bangalore,Karnataka,12330000,9.0,7.368964102565893,2023-09-27
+STR0034,JioMart Hyderabad Store 4,Metro,Hyderabad,Telangana,10000000,8.8,6.363631975138525,2023-09-28
+STR0035,JioMart Pune Store 5,Metro,Pune,Maharashtra,6430000,8.5,2.5309550123115168,2023-08-03
+STR0036,JioMart Chennai Store 6,Metro,Chennai,Tamil Nadu,10970000,8.7,5.125005560154942,2023-07-09
+STR0037,JioMart Mumbai Store 1,Metro,Mumbai,Maharashtra,20400000,9.5,3.951981984579586,2023-07-27
+STR0038,JioMart Delhi Store 2,Metro,Delhi,Delhi,16750000,9.2,6.483920660824285,2023-02-22
+STR0039,JioMart Bangalore Store 3,Metro,Bangalore,Karnataka,12330000,9.0,5.520506993983089,2023-08-05
+STR0040,JioMart Hyderabad Store 4,Metro,Hyderabad,Telangana,10000000,8.8,3.6856070581242846,2023-02-10
+STR0041,JioMart Jaipur Store 1,Tier 2,Jaipur,Rajasthan,3050000,7.5,18.888205171122472,2023-10-28
+STR0042,JioMart Lucknow Store 2,Tier 2,Lucknow,Uttar Pradesh,2900000,7.2,12.236519310393124,2023-11-23
+STR0043,JioMart Coimbatore Store 3,Tier 2,Coimbatore,Tamil Nadu,2150000,7.8,22.70204442119109,2023-05-09
+STR0044,JioMart Indore Store 4,Tier 2,Indore,Madhya Pradesh,2170000,7.4,15.961470446025173,2023-03-04
+STR0045,JioMart Bhopal Store 5,Tier 2,Bhopal,Madhya Pradesh,1800000,6.9,34.463842853645026,2023-03-22
+STR0046,JioMart Nagpur Store 6,Tier 2,Nagpur,Maharashtra,2400000,7.3,31.340258582459498,2023-10-16
+STR0047,JioMart Vadodara Store 7,Tier 2,Vadodara,Gujarat,1670000,7.6,28.17879924343034,2023-08-19
+STR0048,JioMart Ludhiana Store 8,Tier 2,Ludhiana,Punjab,1620000,7.1,29.532310765058334,2023-01-28
+STR0049,JioMart Visakhapatnam Store 9,Tier 2,Visakhapatnam,Andhra Pradesh,1730000,7.0,35.8931027762678,2023-11-24
+STR0050,JioMart Jaipur Store 1,Tier 2,Jaipur,Rajasthan,3050000,7.5,23.4835202241461,2023-02-02
+STR0051,JioMart Lucknow Store 2,Tier 2,Lucknow,Uttar Pradesh,2900000,7.2,11.906750508580709,2023-03-03
+STR0052,JioMart Coimbatore Store 3,Tier 2,Coimbatore,Tamil Nadu,2150000,7.8,19.75549966080241,2023-04-09
+STR0053,JioMart Indore Store 4,Tier 2,Indore,Madhya Pradesh,2170000,7.4,27.738933631231813,2023-08-02
+STR0054,JioMart Bhopal Store 5,Tier 2,Bhopal,Madhya Pradesh,1800000,6.9,36.616382277289794,2023-08-15
+STR0055,JioMart Nagpur Store 6,Tier 2,Nagpur,Maharashtra,2400000,7.3,13.58782737814905,2023-05-11
+STR0056,JioMart Vadodara Store 7,Tier 2,Vadodara,Gujarat,1670000,7.6,32.82355145850693,2023-08-06
+STR0057,JioMart Ludhiana Store 8,Tier 2,Ludhiana,Punjab,1620000,7.1,17.07954759246867,2023-12-25
+STR0058,JioMart Visakhapatnam Store 9,Tier 2,Visakhapatnam,Andhra Pradesh,1730000,7.0,11.21300768615294,2023-07-26
+STR0059,JioMart Jaipur Store 1,Tier 2,Jaipur,Rajasthan,3050000,7.5,22.826230550756488,2023-02-11
+STR0060,JioMart Lucknow Store 2,Tier 2,Lucknow,Uttar Pradesh,2900000,7.2,23.180095055973105,2023-06-28
+STR0061,JioMart Coimbatore Store 3,Tier 2,Coimbatore,Tamil Nadu,2150000,7.8,10.942875570602027,2023-08-19
+STR0062,JioMart Indore Store 4,Tier 2,Indore,Madhya Pradesh,2170000,7.4,24.261106695463354,2023-04-06
+STR0063,JioMart Bhopal Store 5,Tier 2,Bhopal,Madhya Pradesh,1800000,6.9,30.865482592783824,2023-08-19
+STR0064,JioMart Nagpur Store 6,Tier 2,Nagpur,Maharashtra,2400000,7.3,22.31148769106889,2023-06-20
+STR0065,JioMart Vadodara Store 7,Tier 2,Vadodara,Gujarat,1670000,7.6,16.091836742043082,2023-01-13
+STR0066,JioMart Ludhiana Store 8,Tier 2,Ludhiana,Punjab,1620000,7.1,12.309397294863789,2023-07-06
+STR0067,JioMart Visakhapatnam Store 9,Tier 2,Visakhapatnam,Andhra Pradesh,1730000,7.0,30.843547991191137,2023-10-11
+STR0068,JioMart Jaipur Store 1,Tier 2,Jaipur,Rajasthan,3050000,7.5,37.890929570277194,2023-02-14
+STR0069,JioMart Lucknow Store 2,Tier 2,Lucknow,Uttar Pradesh,2900000,7.2,18.86901057513142,2023-05-14
+STR0070,JioMart Coimbatore Store 3,Tier 2,Coimbatore,Tamil Nadu,2150000,7.8,23.696037114487307,2023-04-18
+STR0071,JioMart Indore Store 4,Tier 2,Indore,Madhya Pradesh,2170000,7.4,15.597101766581075,2023-10-13
+STR0072,JioMart Bhopal Store 5,Tier 2,Bhopal,Madhya Pradesh,1800000,6.9,36.49840776756605,2023-05-08
+STR0073,JioMart Nagpur Store 6,Tier 2,Nagpur,Maharashtra,2400000,7.3,34.22320465492188,2023-12-14
+STR0074,JioMart Vadodara Store 7,Tier 2,Vadodara,Gujarat,1670000,7.6,20.688935142309248,2023-07-09
+STR0075,JioMart Ludhiana Store 8,Tier 2,Ludhiana,Punjab,1620000,7.1,13.301557735830302,2023-10-10
+STR0076,JioMart Visakhapatnam Store 9,Tier 2,Visakhapatnam,Andhra Pradesh,1730000,7.0,22.813233658787688,2023-04-26
+STR0077,JioMart Jaipur Store 1,Tier 2,Jaipur,Rajasthan,3050000,7.5,20.57706569002507,2023-09-16
+STR0078,JioMart Lucknow Store 2,Tier 2,Lucknow,Uttar Pradesh,2900000,7.2,10.208563915935722,2023-05-17
+STR0079,JioMart Coimbatore Store 3,Tier 2,Coimbatore,Tamil Nadu,2150000,7.8,24.544899140769495,2023-08-13
+STR0080,JioMart Indore Store 4,Tier 2,Indore,Madhya Pradesh,2170000,7.4,13.595961020010485,2023-06-21
+STR0081,JioMart Bhopal Store 5,Tier 2,Bhopal,Madhya Pradesh,1800000,6.9,17.323765667433225,2023-11-11
+STR0082,JioMart Nagpur Store 6,Tier 2,Nagpur,Maharashtra,2400000,7.3,19.696087960622656,2023-04-06
+STR0083,JioMart Vadodara Store 7,Tier 2,Vadodara,Gujarat,1670000,7.6,26.743060060520236,2023-06-29
+STR0084,JioMart Ludhiana Store 8,Tier 2,Ludhiana,Punjab,1620000,7.1,20.90888807137882,2023-02-21
+STR0085,JioMart Visakhapatnam Store 9,Tier 2,Visakhapatnam,Andhra Pradesh,1730000,7.0,17.406281885158037,2023-10-22
+STR0086,JioMart Raipur Store 1,Tier 3,Raipur,Chhattisgarh,1010000,6.2,24.917455176771565,2023-04-23
+STR0087,JioMart Jamshedpur Store 2,Tier 3,Jamshedpur,Jharkhand,630000,6.5,14.442607898601997,2023-03-22
+STR0088,JioMart Guwahati Store 3,Tier 3,Guwahati,Assam,960000,6.0,18.00343042825855,2023-01-02
+STR0089,JioMart Ranchi Store 4,Tier 3,Ranchi,Jharkhand,1070000,6.3,25.080370696865845,2023-02-23
+STR0090,JioMart Agra Store 5,Tier 3,Agra,Uttar Pradesh,1590000,5.8,10.991521987016451,2023-08-12
+STR0091,JioMart Nashik Store 6,Tier 3,Nashik,Maharashtra,1480000,6.4,37.24797657899961,2023-05-06
+STR0092,JioMart Udaipur Store 7,Tier 3,Udaipur,Rajasthan,475000,6.1,14.346846162736693,2023-06-21
+STR0093,JioMart Ajmer Store 8,Tier 3,Ajmer,Rajasthan,550000,5.9,23.433494937192748,2023-07-17
+STR0094,JioMart Mysore Store 9,Tier 3,Mysore,Karnataka,920000,6.7,17.261658145345013,2023-11-20
+STR0095,JioMart Raipur Store 1,Tier 3,Raipur,Chhattisgarh,1010000,6.2,12.425599789981458,2023-07-03
+STR0096,JioMart Jamshedpur Store 2,Tier 3,Jamshedpur,Jharkhand,630000,6.5,17.12912631977199,2023-09-12
+STR0097,JioMart Guwahati Store 3,Tier 3,Guwahati,Assam,960000,6.0,34.09419269139688,2023-11-21
+STR0098,JioMart Ranchi Store 4,Tier 3,Ranchi,Jharkhand,1070000,6.3,28.969174917807383,2023-07-17
+STR0099,JioMart Agra Store 5,Tier 3,Agra,Uttar Pradesh,1590000,5.8,21.96473327333659,2023-08-28
+STR0100,JioMart Nashik Store 6,Tier 3,Nashik,Maharashtra,1480000,6.4,33.95035374953653,2023-07-20
+STR0101,JioMart Udaipur Store 7,Tier 3,Udaipur,Rajasthan,475000,6.1,19.623401949152075,2023-11-22
+STR0102,JioMart Ajmer Store 8,Tier 3,Ajmer,Rajasthan,550000,5.9,30.874384203726457,2023-09-16
+STR0103,JioMart Mysore Store 9,Tier 3,Mysore,Karnataka,920000,6.7,27.726788295647253,2023-12-12
+STR0104,JioMart Raipur Store 1,Tier 3,Raipur,Chhattisgarh,1010000,6.2,25.36279174897843,2023-05-27
+STR0105,JioMart Jamshedpur Store 2,Tier 3,Jamshedpur,Jharkhand,630000,6.5,20.45997961875188,2023-07-18
+STR0106,JioMart Guwahati Store 3,Tier 3,Guwahati,Assam,960000,6.0,15.230992870149743,2023-05-08
+STR0107,JioMart Ranchi Store 4,Tier 3,Ranchi,Jharkhand,1070000,6.3,25.532540515824405,2023-12-26
+STR0108,JioMart Agra Store 5,Tier 3,Agra,Uttar Pradesh,1590000,5.8,14.125628324379797,2023-05-31
+STR0109,JioMart Nashik Store 6,Tier 3,Nashik,Maharashtra,1480000,6.4,26.243439214826974,2023-10-25
+STR0110,JioMart Udaipur Store 7,Tier 3,Udaipur,Rajasthan,475000,6.1,17.73824883145467,2023-09-09
+STR0111,JioMart Ajmer Store 8,Tier 3,Ajmer,Rajasthan,550000,5.9,15.248647812878085,2023-04-22
+STR0112,JioMart Mysore Store 9,Tier 3,Mysore,Karnataka,920000,6.7,26.65602434798387,2023-03-01
+STR0113,JioMart Raipur Store 1,Tier 3,Raipur,Chhattisgarh,1010000,6.2,17.82487524491227,2023-10-31
+STR0114,JioMart Jamshedpur Store 2,Tier 3,Jamshedpur,Jharkhand,630000,6.5,38.96258053866381,2023-02-06
+STR0115,JioMart Guwahati Store 3,Tier 3,Guwahati,Assam,960000,6.0,36.479090295680194,2023-01-09
+STR0116,JioMart Ranchi Store 4,Tier 3,Ranchi,Jharkhand,1070000,6.3,18.366140577765456,2023-05-27
+STR0117,JioMart Agra Store 5,Tier 3,Agra,Uttar Pradesh,1590000,5.8,31.778670366107182,2023-05-11
+STR0118,JioMart Nashik Store 6,Tier 3,Nashik,Maharashtra,1480000,6.4,35.689728756342774,2023-02-23
+STR0119,JioMart Udaipur Store 7,Tier 3,Udaipur,Rajasthan,475000,6.1,33.396266375728715,2023-04-26
+STR0120,JioMart Ajmer Store 8,Tier 3,Ajmer,Rajasthan,550000,5.9,12.524198949851465,2023-04-14
