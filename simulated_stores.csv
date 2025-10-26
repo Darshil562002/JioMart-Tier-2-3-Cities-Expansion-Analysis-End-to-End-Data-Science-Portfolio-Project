@@ -1,0 +1,91 @@
+store_id,store_name,region_tier,city,state
+STR0001,JioMart Mumbai 1,Metro,Mumbai,Maharashtra
+STR0002,JioMart Delhi 2,Metro,Delhi,Delhi
+STR0003,JioMart Bangalore 3,Metro,Bangalore,Karnataka
+STR0004,JioMart Hyderabad 4,Metro,Hyderabad,Telangana
+STR0005,JioMart Pune 5,Metro,Pune,Maharashtra
+STR0006,JioMart Chennai 6,Metro,Chennai,Tamil Nadu
+STR0007,JioMart Mumbai 7,Metro,Mumbai,Maharashtra
+STR0008,JioMart Delhi 8,Metro,Delhi,Delhi
+STR0009,JioMart Bangalore 9,Metro,Bangalore,Karnataka
+STR0010,JioMart Hyderabad 10,Metro,Hyderabad,Telangana
+STR0011,JioMart Pune 11,Metro,Pune,Maharashtra
+STR0012,JioMart Chennai 12,Metro,Chennai,Tamil Nadu
+STR0013,JioMart Mumbai 13,Metro,Mumbai,Maharashtra
+STR0014,JioMart Delhi 14,Metro,Delhi,Delhi
+STR0015,JioMart Bangalore 15,Metro,Bangalore,Karnataka
+STR0016,JioMart Hyderabad 16,Metro,Hyderabad,Telangana
+STR0017,JioMart Pune 17,Metro,Pune,Maharashtra
+STR0018,JioMart Chennai 18,Metro,Chennai,Tamil Nadu
+STR0019,JioMart Mumbai 19,Metro,Mumbai,Maharashtra
+STR0020,JioMart Delhi 20,Metro,Delhi,Delhi
+STR0021,JioMart Bangalore 21,Metro,Bangalore,Karnataka
+STR0022,JioMart Hyderabad 22,Metro,Hyderabad,Telangana
+STR0023,JioMart Pune 23,Metro,Pune,Maharashtra
+STR0024,JioMart Chennai 24,Metro,Chennai,Tamil Nadu
+STR0025,JioMart Mumbai 25,Metro,Mumbai,Maharashtra
+STR0026,JioMart Delhi 26,Metro,Delhi,Delhi
+STR0027,JioMart Bangalore 27,Metro,Bangalore,Karnataka
+STR0028,JioMart Hyderabad 28,Metro,Hyderabad,Telangana
+STR0029,JioMart Pune 29,Metro,Pune,Maharashtra
+STR0030,JioMart Chennai 30,Metro,Chennai,Tamil Nadu
+STR0031,JioMart Jaipur 1,Tier 2,Jaipur,Rajasthan
+STR0032,JioMart Lucknow 2,Tier 2,Lucknow,UP
+STR0033,JioMart Coimbatore 3,Tier 2,Coimbatore,TN
+STR0034,JioMart Indore 4,Tier 2,Indore,MP
+STR0035,JioMart Bhopal 5,Tier 2,Bhopal,MP
+STR0036,JioMart Nagpur 6,Tier 2,Nagpur,Maharashtra
+STR0037,JioMart Vadodara 7,Tier 2,Vadodara,Gujarat
+STR0038,JioMart Ludhiana 8,Tier 2,Ludhiana,Punjab
+STR0039,JioMart Visakhapatnam 9,Tier 2,Visakhapatnam,AP
+STR0040,JioMart Jaipur 10,Tier 2,Jaipur,Rajasthan
+STR0041,JioMart Lucknow 11,Tier 2,Lucknow,UP
+STR0042,JioMart Coimbatore 12,Tier 2,Coimbatore,TN
+STR0043,JioMart Indore 13,Tier 2,Indore,MP
+STR0044,JioMart Bhopal 14,Tier 2,Bhopal,MP
+STR0045,JioMart Nagpur 15,Tier 2,Nagpur,Maharashtra
+STR0046,JioMart Vadodara 16,Tier 2,Vadodara,Gujarat
+STR0047,JioMart Ludhiana 17,Tier 2,Ludhiana,Punjab
+STR0048,JioMart Visakhapatnam 18,Tier 2,Visakhapatnam,AP
+STR0049,JioMart Jaipur 19,Tier 2,Jaipur,Rajasthan
+STR0050,JioMart Lucknow 20,Tier 2,Lucknow,UP
+STR0051,JioMart Coimbatore 21,Tier 2,Coimbatore,TN
+STR0052,JioMart Indore 22,Tier 2,Indore,MP
+STR0053,JioMart Bhopal 23,Tier 2,Bhopal,MP
+STR0054,JioMart Nagpur 24,Tier 2,Nagpur,Maharashtra
+STR0055,JioMart Vadodara 25,Tier 2,Vadodara,Gujarat
+STR0056,JioMart Ludhiana 26,Tier 2,Ludhiana,Punjab
+STR0057,JioMart Visakhapatnam 27,Tier 2,Visakhapatnam,AP
+STR0058,JioMart Jaipur 28,Tier 2,Jaipur,Rajasthan
+STR0059,JioMart Lucknow 29,Tier 2,Lucknow,UP
+STR0060,JioMart Coimbatore 30,Tier 2,Coimbatore,TN
+STR0061,JioMart Indore 31,Tier 2,Indore,MP
+STR0062,JioMart Bhopal 32,Tier 2,Bhopal,MP
+STR0063,JioMart Nagpur 33,Tier 2,Nagpur,Maharashtra
+STR0064,JioMart Vadodara 34,Tier 2,Vadodara,Gujarat
+STR0065,JioMart Ludhiana 35,Tier 2,Ludhiana,Punjab
+STR0066,JioMart Raipur 1,Tier 3,Raipur,Chhattisgarh
+STR0067,JioMart Jamshedpur 2,Tier 3,Jamshedpur,Jharkhand
+STR0068,JioMart Guwahati 3,Tier 3,Guwahati,Assam
+STR0069,JioMart Ranchi 4,Tier 3,Ranchi,Jharkhand
+STR0070,JioMart Agra 5,Tier 3,Agra,UP
+STR0071,JioMart Nashik 6,Tier 3,Nashik,Maharashtra
+STR0072,JioMart Udaipur 7,Tier 3,Udaipur,Rajasthan
+STR0073,JioMart Ajmer 8,Tier 3,Ajmer,Rajasthan
+STR0074,JioMart Mysore 9,Tier 3,Mysore,Karnataka
+STR0075,JioMart Raipur 10,Tier 3,Raipur,Chhattisgarh
+STR0076,JioMart Jamshedpur 11,Tier 3,Jamshedpur,Jharkhand
+STR0077,JioMart Guwahati 12,Tier 3,Guwahati,Assam
+STR0078,JioMart Ranchi 13,Tier 3,Ranchi,Jharkhand
+STR0079,JioMart Agra 14,Tier 3,Agra,UP
+STR0080,JioMart Nashik 15,Tier 3,Nashik,Maharashtra
+STR0081,JioMart Udaipur 16,Tier 3,Udaipur,Rajasthan
+STR0082,JioMart Ajmer 17,Tier 3,Ajmer,Rajasthan
+STR0083,JioMart Mysore 18,Tier 3,Mysore,Karnataka
+STR0084,JioMart Raipur 19,Tier 3,Raipur,Chhattisgarh
+STR0085,JioMart Jamshedpur 20,Tier 3,Jamshedpur,Jharkhand
+STR0086,JioMart Guwahati 21,Tier 3,Guwahati,Assam
+STR0087,JioMart Ranchi 22,Tier 3,Ranchi,Jharkhand
+STR0088,JioMart Agra 23,Tier 3,Agra,UP
+STR0089,JioMart Nashik 24,Tier 3,Nashik,Maharashtra
+STR0090,JioMart Udaipur 25,Tier 3,Udaipur,Rajasthan
