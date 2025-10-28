@@ -4,9 +4,7 @@
 
 ### **Disclaimer**
 
-This project has been created solely for educational and portfolio purposes to practice and demonstrate my analytical and technical skills.  
-All data used in this project has been **synthetically generated** by me using AI tools and prompt engineering, with **JioMart** used only as an **illustrative example company**.  
-The insights, visualizations, and recommendations presented here are **not based on real company data** and **do not represent any official information or affiliation** with JioMart or its parent organization.
+This project has been created solely for educational and portfolio purposes to practice and demonstrate my analytical and technical skills. All data used in this project has been **synthetically generated** by me using AI tools and prompt engineering, with **JioMart** used only as an **illustrative example company**. The insights, visualizations, and recommendations presented here are **not based on real company data** and **do not represent any official information or affiliation** with JioMart or its parent organization.
 
 
 ### Business Context
